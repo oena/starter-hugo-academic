@@ -15,9 +15,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Generalizability methods
+- Clinical trials
+- Digital health tools
 
 # Education to show in About widget
 education:
