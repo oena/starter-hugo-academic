@@ -24,13 +24,6 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
 
-  # Contact details (edit or remove options as required)
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: I very occasionally tweet here
-      link: 'https://twitter.com/OEnache'
-
 design:
   columns: '2'
 ---
