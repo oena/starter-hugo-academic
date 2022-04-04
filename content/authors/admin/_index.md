@@ -67,4 +67,4 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm a PhD student in the [Department of Biomedical Data Science](https://med.stanford.edu/dbds.html) at Stanford University and am currently exploring possible thesis projects in the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) and the [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html). Previously, I worked with the [Big Ideas Lab](https://dunn.pratt.duke.edu/) at Duke University and with the [Golub Lab](https://golublab.broadinstitute.org/) at the Broad Institute of MIT and Harvard. 
+Hi! I'm a PhD student in the [Department of Biomedical Data Science](https://med.stanford.edu/dbds.html) at Stanford University and am currently exploring possible thesis projects in the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) and the [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html). Previously, I worked in the [Big Ideas Lab](https://dunn.pratt.duke.edu/) at Duke University and the [Golub Lab](https://golublab.broadinstitute.org/) at the Broad Institute of MIT and Harvard. 
