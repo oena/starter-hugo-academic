@@ -16,8 +16,10 @@ organizations:
 # Interests to show in About widget
 interests:
 - Generalizability methods
+- Causal inference
 - Clinical trials
-- Digital health tools
+- Digital health
+- Integrating health data
 
 # Education to show in About widget
 education:
@@ -37,9 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/OEnache
@@ -68,3 +67,5 @@ highlight_name: true
 ---
 
 Hi! I'm a PhD student in the [Department of Biomedical Data Science](https://med.stanford.edu/dbds.html) at Stanford University and am currently exploring possible thesis projects in the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) and the [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html). Previously, I worked in the [Big Ideas Lab](https://dunn.pratt.duke.edu/) at Duke University and the [Golub Lab](https://golublab.broadinstitute.org/) at the Broad Institute of MIT and Harvard. 
+
+If you’re interested in my work or share interests, don’t hesitate to reach out! I can be reached at _oenache_ _at_ _stanford.edu_ or at my Twitter or LinkedIn accounts (you can find my respective profiles via the icons below my photo). 
