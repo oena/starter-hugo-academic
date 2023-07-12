@@ -15,11 +15,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Generalizability methods
-- Causal inference
-- Clinical trials
-- Digital health
-- Integrating health data
+- AI deployment and evaluation
+- Clinical Trials
+- Causal Inference 
 
 # Education to show in About widget
 education:
@@ -66,6 +64,6 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm a PhD student in the [Department of Biomedical Data Science](https://med.stanford.edu/dbds.html) at Stanford University and am currently exploring possible thesis projects in the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) and the [Quantitative Sciences Unit](https://med.stanford.edu/qsu.html). Previously, I worked in the [Big Ideas Lab](https://dunn.pratt.duke.edu/) at Duke University and the [Golub Lab](https://golublab.broadinstitute.org/) at the Broad Institute of MIT and Harvard. 
+Hi! I'm a PhD student in the [Department of Biomedical Data Science](https://med.stanford.edu/dbds.html) at Stanford University and am advised by [Dr. Sherri Rose](http://drsherrirose.org/) in the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). Previously, I worked in the [Big Ideas Lab](https://dunn.pratt.duke.edu/) at Duke University and the [Golub Lab](https://golublab.broadinstitute.org/) at the Broad Institute of MIT and Harvard. 
 
 My most up-to-date publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=4yh_AcQAAAAJ&hl=en&oi=ao). If you’re interested in my work or share interests, feel free to send me a message via Twitter or LinkedIn! You can find my respective profiles via the icons below my photo. 
