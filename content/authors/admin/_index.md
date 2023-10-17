@@ -6,7 +6,7 @@ title: Oana M. Enache
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,9 +15,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- AI deployment and evaluation
-- Clinical Trials
-- Causal Inference 
+- AI/ML/Statistics applied to Health Policy Problems
+- Algorithm deployment and evaluation
+- Improving equity in & access to academia
 
 # Education to show in About widget
 education:
@@ -25,12 +25,10 @@ education:
   - course: PhD in Biomedical Informatics
     institution: Stanford University
     year: current
-  - course: MB in Biostatistics
+  - course: MS in Biostatistics
     institution: Duke University School of Medicine
-    year: 2021
   - course: BA in Applied Mathematics, Concentration Computational Biology
     institution: University of California, Berkeley
-    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
