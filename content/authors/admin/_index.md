@@ -22,11 +22,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biomedical Informatics
+  - course: PhD in Biomedical Data Science
     institution: Stanford University
     year: current
   - course: MS in Biostatistics
-    institution: Duke University School of Medicine
+    institution: Duke University 
   - course: BA in Applied Mathematics, Concentration Computational Biology
     institution: University of California, Berkeley
 
