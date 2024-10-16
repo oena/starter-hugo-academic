@@ -15,9 +15,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- AI/ML/Statistics applied to Health Policy Problems
+- AI/ML/Statistics methods development for health policy issues
+- Medicare Advantage payment models
 - Algorithm deployment and evaluation
-- Improving equity in & access to academia
 
 # Education to show in About widget
 education:
